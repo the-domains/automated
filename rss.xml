@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Automated]]></title>
         <description><![CDATA[Automated]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/automated/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:24:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 26 Oct 2015 17:25:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/automated/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://dieselsweeties.com/2x/sw3903.png">]]></description>
+            <link>http://dieselsweeties.com/archive/3903</link>
+            <guid isPermaLink="false">eb185c71-2baf-497b-9d15-1a94c2b896d1</guid>
+            <pubDate>Mon, 26 Oct 2015 17:24:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[holocene]]></title>
             <description><![CDATA[<article><h1>holocene</h1><p>hardware: arc4 software: electric dharma wheels I received a production-run arc4 with the final firmware on Friday. This signaled a mad scramble to update my work for that and the latest serialosc with arc support so it'll be ready when people start receiving their units in a few days.</p><img src="http://i.vimeocdn.com/video/139033291_1280.jpg"></article>]]></description>
