@@ -2,6 +2,7 @@ name: Automated
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.1076
+title: titles are for humans
 cta:
   domain: null
   bucket: null
