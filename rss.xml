@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Automated]]></title>
-        <description><![CDATA[Automated]]></description>
+        <title><![CDATA[titles are for humans]]></title>
+        <description><![CDATA[titles are for humans]]></description>
         <link>https://thegrid.ai/automated/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 07:31:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/automated/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://dieselsweeties.com/archive/3903</link>
             <guid isPermaLink="false">eb185c71-2baf-497b-9d15-1a94c2b896d1</guid>
             <pubDate>Mon, 26 Oct 2015 17:24:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thirteen Months of Audiobus]]></title>
+            <description><![CDATA[<article><h1>Thirteen Months of Audiobus</h1><p>Tomorrow, Monday December 10, my friend and partner-in-crime Sebastian Dittmann and I are launching a project over twelve months in the making: Audiobus. We're very proud of what we've managed to do, and we both firmly believe that Audiobus is going to fundamentally alter the way people create music on the iPad and iPhone.</p><img src="http://atastypixel.com/blog/wp-content/uploads/2012/12/MG_4769.jpg"></article>]]></description>
+            <link>http://technomadics.net/2012/12/09/thirteen-months-of-audiobus/</link>
+            <guid isPermaLink="false">413ae19f-0304-4be1-b605-4d5646050509</guid>
+            <pubDate>Tue, 27 Oct 2015 07:30:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is the scariest chart in the American economy today]]></title>
